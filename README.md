@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on EEG Signal Processing Projects  
 - 🌱 I’m currently learning Spring Boot, Java & Web Development  
 - ⚡ I love connecting Hardware (IoT) with Software  
-- 📫 How to reach me: yourmail@gmail.com  
+- 📫 How to reach me: vsrimahalakshmi07_bec27@mepcoeng.ac.in
 
 ---
 
