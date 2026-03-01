@@ -1,8 +1,7 @@
 # SriMahaLakshmi-V
 # Hi there 👋 It's me Sri Mahalakshmi
 
-🎓 ECE Student | Developer | ML Enthusiast  
-
+🎓 ECE Student | Embedded & IoT Enthusiast | Electronics Design Engineer |
 - 🔭 I’m currently working on EEG Signal Processing Projects  
 - 🌱 I’m currently learning Spring Boot, Java & Web Development  
 - ⚡ I love connecting Hardware (IoT) with Software  
@@ -24,3 +23,5 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+## SKILLS
+Python | MATLAB | Image Processing | Embedded Systems | VLSI | DSP
