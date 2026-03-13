@@ -10,11 +10,12 @@
 ---
 
 ## 🌐 Social Presence
+# Replace the URL inside the ( ) with your own profile link
 
-[![LinkedIn](www.linkedin.com/in/sri-mahalakshmi-v-4a2b93327O)
-[![LeetCode](https://leetcode.com/u/sri_maha_lakshmi/)
-[![HackerRank](https://www.hackerrank.com/profile/vsrimahalakshmi1)
-
+[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/sri-mahalakshmi-v-4a2b93327O)
+[![LeetCode](https://img.shields.io)](https://leetcode.com/u/sri_maha_lakshmi/)
+[![HackerRank](https://img.shields.io)](https://www.hackerrank.com/profile/vsrimahalakshmi1)
+[![GeeksforGeeks](https://img.shields.io)](https://www.geeksforgeeks.org/profile/vsrimahalaksl0l7?tab=overview)
 
 ---
 
