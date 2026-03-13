@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Social Presence
-# Replace the URL inside the ( ) with your own profile link
+
 
 [![LinkedIn](https://img.shields.io)](www.linkedin.com/in/sri-mahalakshmi-v-4a2b93327O)
 [![LeetCode](https://img.shields.io)](https://leetcode.com/u/sri_maha_lakshmi/)
