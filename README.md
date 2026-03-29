@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sri%20Mahalakshmi%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Embedded%20%26%20IoT%20Enthusiast%20%7C%20Signal%20Processing&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;ECE+Student+%40+MSEC;Embedded+%26+IoT+Developer;EEG+Signal+Processing+Researcher;Hardware+%2B+Software+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;ECE+Student+%40+MSEC;Embedded+%26+IoT+Developer;EEG+Signal+Processing+Researcher;Data+Science+%26+ML+Explorer+%F0%9F%93%88;Hardware+%2B+Software+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -28,13 +28,15 @@ class SriMahalakshmi:
         self.role       = "ECE Student @ MSEC"
         self.location   = "Madurai, Tamil Nadu 🇮🇳"
         self.passions   = ["Embedded Systems", "IoT",
-                           "Signal Processing", "VLSI"]
+                           "Signal Processing", "VLSI",
+                           "Data Science", ]
     
     def currently(self):
         return {
             "working_on" : "EEG Signal Processing Projects ⚡",
-            "learning"   : " Embedded Systems,Java Script,DBMS🌱",
-            "exploring"  : "Hardware ↔ Software Integration 🔗"
+            "learning"   : "Embedded Systems, JavaScript, DBMS, AWS Cloud 🌱",
+            "exploring"  : "Hardware ↔ Software Integration 🔗",
+            "practising" : "DSA, OOPs, SQL every day 💪"
         }
     
     def reach_me(self):
@@ -66,9 +68,11 @@ class SriMahalakshmi:
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -77,9 +81,11 @@ class SriMahalakshmi:
 <div align="center">
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20☁️-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -92,12 +98,16 @@ class SriMahalakshmi:
 
 | Domain | Technologies |
 |:---:|:---|
-| 🔌 **Embedded Systems** | Arduino, Raspberry Pi, RTOS, Bare-metal C |
+| 🔌 **Embedded Systems** | Arduino, Raspberry Pi, RTOS |
 | 📡 **IoT** | Sensor Integration, DS3231 RTC, I2C, UART, SPI |
 | 🧠 **Signal Processing** | EEG Analysis, DSP, MATLAB, Filtering Techniques |
 | 🖼️ **Image Processing** | OpenCV, CNN, Character Recognition, Segmentation |
+| 📊 **Data Science** |  Matplotlib, scikit-learn, ML Models |
+| 🏗️ **OOPs & DSA** | Java/C++ OOP Principles, Arrays, Trees, Graphs |
+| 🗄️ **SQL & Databases** | MySQL, Queries, Joins, Normalization, DBMS |
+| ☁️ **AWS Cloud** *(Learning)* |  Cloud Foundations |
 | 💾 **VLSI** | Digital Design, HDL Concepts |
-| 🌐 **Web / Backend** |  Java, HTML/CSS |
+| 🌐 **Web / Backend** | Java, HTML/CSS|
 
 </div>
 
@@ -162,7 +172,19 @@ class SriMahalakshmi:
 │                   🧠 EEG Signal Processing                  │
 │  ████████████████████████░░░░░░░░░░░░░░░  60% Complete     │
 │                                                             │
-│                   🌱 JavaScript,DBMS                     │
+│                   📊 Data Science & ML                      │
+│  ████████████████░░░░░░░░░░░░░░░░░░░░░░░  40% Complete     │
+│                                                             │
+│                   🏗️ OOPs & DSA                             │
+│  ██████████████████████░░░░░░░░░░░░░░░░░  55% Complete     │
+│                                                             │
+│                   🗄️ SQL & DBMS                             │
+│  ███████████████████░░░░░░░░░░░░░░░░░░░░  50% Complete     │
+│                                                             │
+│                   ☁️ AWS Cloud (Learning)                   │
+│  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20% Complete     │
+│                                                             │
+│                   🌱 JavaScript & DBMS                      │
 │  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  35% Complete     │
 │                                                             │
 │                   🔗 Embedded Linux                         │
@@ -177,12 +199,13 @@ class SriMahalakshmi:
 
 ## 💡 Fun Facts
 
-> ⚡ *"I speak fluent C, C++."*
+> ⚡ *"I speak fluent C, C++ — and I query the universe in SQL."*
 
 - 🔬 Fascinated by how brain signals (EEG) can control machines
 - 🛠️ I love building real-time embedded systems from scratch
 - 📡 Connecting hardware dots with software magic is my superpower
-- 🎯 Aspiring to work at **Intel** or **NVIDIA** on cutting-edge silicon
+- 📊 Data tells stories — I'm learning to read them with Data Science
+- ☁️ Taking my first steps into the AWS Cloud — sky is not the limit!
 
 ---
 
