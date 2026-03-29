@@ -29,12 +29,11 @@ class SriMahalakshmi:
         self.location   = "Madurai, Tamil Nadu 🇮🇳"
         self.passions   = ["Embedded Systems", "IoT",
                            "Signal Processing", "VLSI"]
-        self.goal       = "Aspiring Engineer @ Intel / NVIDIA"
     
     def currently(self):
         return {
             "working_on" : "EEG Signal Processing Projects ⚡",
-            "learning"   : "Spring Boot, Java & Web Dev 🌱",
+            "learning"   : " Embedded Systems,Java Script,DBMS🌱",
             "exploring"  : "Hardware ↔ Software Integration 🔗"
         }
     
@@ -79,7 +78,6 @@ class SriMahalakshmi:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -99,7 +97,7 @@ class SriMahalakshmi:
 | 🧠 **Signal Processing** | EEG Analysis, DSP, MATLAB, Filtering Techniques |
 | 🖼️ **Image Processing** | OpenCV, CNN, Character Recognition, Segmentation |
 | 💾 **VLSI** | Digital Design, HDL Concepts |
-| 🌐 **Web / Backend** | Spring Boot, Java, HTML/CSS |
+| 🌐 **Web / Backend** |  Java, HTML/CSS |
 
 </div>
 
@@ -164,7 +162,7 @@ class SriMahalakshmi:
 │                   🧠 EEG Signal Processing                  │
 │  ████████████████████████░░░░░░░░░░░░░░░  60% Complete     │
 │                                                             │
-│                   🌱 Spring Boot & Java                     │
+│                   🌱 JavaScript,DBMS                     │
 │  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  35% Complete     │
 │                                                             │
 │                   🔗 Embedded Linux                         │
@@ -179,7 +177,7 @@ class SriMahalakshmi:
 
 ## 💡 Fun Facts
 
-> ⚡ *"I speak fluent C, Python, and oscilloscope."*
+> ⚡ *"I speak fluent C, C++."*
 
 - 🔬 Fascinated by how brain signals (EEG) can control machines
 - 🛠️ I love building real-time embedded systems from scratch
